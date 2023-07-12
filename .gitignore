@@ -166,13 +166,6 @@ out
 .yarn/install-state.gz
 .pnp.\*
 
-# mes fichiers ts
-db-pixelhunt-mongo.ts
-games-models.ts
-games-steam-models.ts
-routes.ts
-server.ts
-
 # la config
 package-lock.json
 package.json
